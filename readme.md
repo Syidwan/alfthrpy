@@ -1,11 +1,10 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### I'm an Informatics Engineering student with a keen interest in Backend Development and Machine Learning
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
+- 📚 Student of Informatics Engineering
+- 💻 Passionate about Backend Development and Machine Learning
+- ⚙️ I use daily: `.php`, `.python`, `.java`, `.laravel`
+- 🌍 Exploring and learning more about the tech world
+- 💬 Feel free to reach out to me about **backend development**, **machine learning**, **PHP**, **Python**, **Java**, **Laravel**
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
