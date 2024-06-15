@@ -4,7 +4,7 @@
 
 - 📚 Student of Informatics Engineering
 - 💻 Passionate about Backend Development and Machine Learning
-- ⚙️ I use daily: `.php`, `.python`, `.java`, `.laravel`
+- ⚙️ I use daily: `.php`, `.python`, `.java`
 - 🌍 Exploring and learning more about the tech world
 - 💬 Feel free to reach out to me about **backend development**, **machine learning**, **PHP**, **Python**, **Java**, **Laravel**
 
