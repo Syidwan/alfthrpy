@@ -8,18 +8,15 @@
 
 ---
 
-### My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfthrpy&show_icons=true&theme=radical)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
----
+### My GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=alfthrpy&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 ### My Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&layout=compact&theme=radical)
-
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&layout=compact&theme=radical" alt="Top Languages" />
 
 ### My Commit Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=alfthrpy&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=alfthrpy&theme=radical&hide_border=true" alt="GitHub Streak" />
 
----
-
+</div>
