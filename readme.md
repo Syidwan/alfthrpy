@@ -8,15 +8,12 @@
 
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
 ### My GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=alfthrpy&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-### My Top Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfthrpy&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&layout=compact&theme=radical" alt="Top Languages" height="180">
+  <img src="https://streak-stats.demolab.com?user=alfthrpy&theme=radical&hide_border=true" alt="GitHub Streak" height="180">
+</p>
 
-### My Commit Streak:
-<img src="https://streak-stats.demolab.com?user=alfthrpy&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
+---
