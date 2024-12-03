@@ -32,7 +32,7 @@ University student, 22 years old, specializing in **Machine Learning** and **Bac
 
 ### Credit
 
-This profile README template was inspired by [xecureyan](https://github.com/xecureyan). Thank you for providing such a great template!
+This profile README template was inspired by [xecureyan](https://github.com/xecureyan1337). Thank you for providing such a great template!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
