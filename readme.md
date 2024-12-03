@@ -20,8 +20,14 @@ University student, 22 years old, specializing in **Machine Learning** and **Bac
 ## 📊 Stats
 
 <p style="text-align:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfthrpy&theme=github_dark_dimmed" />
+  <img src="https://streak-stats.demolab.com?user=alfthrpy&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfthrpy&theme=github_dark_dimmed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfthrpy&theme=github-compact" />
+
+
+
+
 </p>
 
 ## 🏆 Trophies 
