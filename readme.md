@@ -1,6 +1,6 @@
 <div align="center" style="margin: 0; padding: 0;">
   <h5 style="margin: 0; padding: 0;">My name is</h5>
-  <h1 align="center" style="margin: 0; padding: 0;">Muhammad Rizki Al-Fathir</h1>
+  <h1 align="center" style="margin: 0; padding: 0;">Nirwan Rasyid Ridlo</h1>
   <h2 style="margin: 0; padding: 0;">I build things in AI and Web</h2>
 </div>
 
