@@ -1,5 +1,5 @@
 <div align="center" style="margin: 0; padding: 0;">
-  <h1 align="center" style="margin: 0; padding: 0;">Muhammad Rizki Al-Fathir</h1>
+  <h1 align="center" style="margin: 0; padding: 0;">Nirwan Rasyid Ridlo</h1>
   <h2 style="margin: 0; padding: 0;">tech Enthusiast</h2>
 </div>
 
