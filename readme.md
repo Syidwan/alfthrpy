@@ -18,10 +18,10 @@ University student, a Software Developer specializing in Frontend Development wi
 ## 📊 Stats
 
 <p style="text-align:center;">
-  <img src="https://streak-stats.demolab.com?user=alfthrpy&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
-  <img src="https://github-readme-stats.vercel.app/api?username=alfthrpy&theme=github_dark_dimmed" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfthrpy&theme=github-compact" />
+  <img src="https://streak-stats.demolab.com?user=syidwan&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syidwan&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
+  <img src="https://github-readme-stats.vercel.app/api?username=sydwan&theme=github_dark_dimmed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syidwan&theme=github-compact" />
 
 
 
